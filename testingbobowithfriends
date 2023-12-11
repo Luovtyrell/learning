@@ -1,0 +1,13 @@
+let eresbobo = 2
+switch (eresbobo) {
+case 1:
+eresbobo = 'Ire'
+console.log('Dilo boba')
+break;
+case 2:
+eresbobo = 'Alex'
+console.log('Dilo bobo')
+break;
+default:
+eresbobo= 'Nada'
+}
